@@ -8,7 +8,7 @@ This task was written in C++ and include Makefile for compiling.
 
 This part focus on the implementation for the  Magical Iterators tool - a custom datat container include 3 different iterators.
 
-The use of the iterators is in O(1) runing time and space complexity, the use of the Megical container is in O(N).
+The use of the iterators is in O(1) runing time and space complexity, the use of the Magical container is in O(N).
 
 Made with deoctest tools  
 
